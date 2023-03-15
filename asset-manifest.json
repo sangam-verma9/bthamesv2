@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bthamesv2/static/css/main.73673946.css",
+    "main.js": "/bthamesv2/static/js/main.79c83bc8.js",
+    "static/media/about2.png": "/bthamesv2/static/media/about2.46bfc08d6c0865c1128f.png",
+    "static/media/logo.png": "/bthamesv2/static/media/logo.2311fcd63c27646f4d83.png",
+    "static/media/image2.png": "/bthamesv2/static/media/image2.a73cc451676351caf2ff.png",
+    "static/media/imagehome.png": "/bthamesv2/static/media/imagehome.b16485e56d13a9899198.png",
+    "static/media/image6.png": "/bthamesv2/static/media/image6.ba4885ef9df76d4d0ad1.png",
+    "static/media/image3.jpg": "/bthamesv2/static/media/image3.3cd323d8855f64478ee4.jpg",
+    "static/media/image5.jpg": "/bthamesv2/static/media/image5.9617dcc82c310851c82e.jpg",
+    "static/media/image1.jpg": "/bthamesv2/static/media/image1.ecb18139ca74b4213f58.jpg",
+    "static/media/logoregister.png": "/bthamesv2/static/media/logoregister.ff4f0595a9126c4c3961.png",
+    "static/media/image4.jpg": "/bthamesv2/static/media/image4.415273a85549a524e1be.jpg",
+    "static/media/bookbg.png": "/bthamesv2/static/media/bookbg.b35879cf269402f26938.png",
+    "static/media/about1.jpg": "/bthamesv2/static/media/about1.5942fafef5185751e624.jpg",
+    "index.html": "/bthamesv2/index.html",
+    "main.73673946.css.map": "/bthamesv2/static/css/main.73673946.css.map",
+    "main.79c83bc8.js.map": "/bthamesv2/static/js/main.79c83bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73673946.css",
+    "static/js/main.79c83bc8.js"
+  ]
+}
